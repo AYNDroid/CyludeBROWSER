@@ -2,6 +2,9 @@
 A browser with Extension s and Devtools, so recently Kiwi browser is discontinued so this browser is helpful for everyone!
 ![Icon](https://github.com/AYNDroid/CyludeBROWSER/blob/main/CyludeBrowser_icon.png?raw=true)
 
+# UI
+A Metarial 3 loading bar(Webpage) and a Google font icons(Metarial 3 Licenced by Google)
+
 # Screenshots
 
 ![sc1](https://github.com/AYNDroid/CyludeBROWSER/blob/main/Screenshot_20251117-111800.png?raw=true)
